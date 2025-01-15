@@ -3,5 +3,16 @@
     <option name="acceptedTermsVersion" value="3" />
     <option name="contextSharingModeV2" value="NeverShare" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1736934561772">I'm getting the following error while building my project. The error is: org.jetbrains.kotlin.gradle.tasks.CompilationErrorException: Compilation error. See log for more details
+```
+Caused by: org.jetbrains.kotlin.gradle.tasks.CompilationErrorException: Compilation error. See log for more details
+...
+Caused by: org.jetbrains.kotlin.gradle.tasks.CompilationErrorException: Compilation error. See log for more details
+```
+How do I fix this?</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
