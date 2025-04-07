@@ -201,8 +201,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-35/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-35/data/res" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-35/android.jar!/" type="simple" />
+            <root url="file:///Volumes/Data/Android/sdk/platforms/android-35/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
