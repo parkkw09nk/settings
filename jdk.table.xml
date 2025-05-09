@@ -120,8 +120,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-32/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-32/data/res" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-32/android.jar!/" type="simple" />
+            <root url="file:///Volumes/Data/Android/sdk/platforms/android-32/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -147,8 +147,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-33/data/res" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-33/android.jar!/" type="simple" />
+            <root url="file:///Volumes/Data/Android/sdk/platforms/android-33/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -559,7 +559,7 @@
     <jdk version="2">
       <name value="jbr-21" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 21.0.5" />
+      <version value="JetBrains Runtime 21.0.6" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr/Contents/Home" />
       <roots>
         <annotationsPath>
