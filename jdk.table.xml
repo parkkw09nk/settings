@@ -12,8 +12,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-26/data/res" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-26/android.jar!/" type="simple" />
+            <root url="file:///Volumes/Data/Android/sdk/platforms/android-26/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -34,13 +34,13 @@
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/annotations.zip!/" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-29/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file:///Volumes/Data/Android/sdk/platforms/android-29/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -61,13 +61,13 @@
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-30/data/annotations.zip!/" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-30/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-30/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-30/data/res" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-30/android.jar!/" type="simple" />
+            <root url="file:///Volumes/Data/Android/sdk/platforms/android-30/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -88,13 +88,13 @@
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-31/data/annotations.zip!/" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-31/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-31/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-31/data/res" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-31/android.jar!/" type="simple" />
+            <root url="file:///Volumes/Data/Android/sdk/platforms/android-31/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -169,13 +169,13 @@
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-34/data/annotations.zip!/" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-34/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-34/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-34/data/res" type="simple" />
+            <root url="jar:///Volumes/Data/Android/sdk/platforms/android-34/android.jar!/" type="simple" />
+            <root url="file:///Volumes/Data/Android/sdk/platforms/android-34/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
